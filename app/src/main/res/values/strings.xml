@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Udacity Baking</string>
+    <string name="title_recipestep_detail">RecipeStep Detail</string>
+</resources>
